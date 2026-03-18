@@ -1,4 +1,4 @@
-# Business Context: 
+## Business Context: 
 High employee turnover affects workforce stability, team productivity, and hiring costs across every industry. For large organizations managing hundreds or thousands of employees, understanding why people leave is just as important as knowing that they left.
 
 This project simulates a People Analytics engagement where HR leadership needs data-driven insights to prioritize retention efforts. The goal is to move beyond surface-level reporting and identify the specific drivers of attrition so HR Business Partners can bring actionable recommendations to managers and leadership.
