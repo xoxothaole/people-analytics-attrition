@@ -73,7 +73,7 @@ This logic produced a watchlist of **161 active employees** with elevated risk, 
 
 ## Python EDA
 
-Full analysis in [`hr_attrition_eda.ipynb`](notebooks/hr_attrition_eda.ipynb).
+Full analysis in [`hr_attrition_eda.ipynb`](python/hr_attrition_eda.ipynb).
 
 ### Overall Attrition Rate
 
