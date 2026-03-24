@@ -83,7 +83,7 @@ The overall attrition rate is **16.1%**. That is the baseline we measure everyth
 
 ### Attrition by Department
 
-![Attrition by Department](visuals/dept_attrition.png)
+![Attrition by Department](dept_attrition.png)
 
 Sales has the highest departmental attrition at 20.6%, followed closely by Human Resources at 19.0%. Research and Development is the only department sitting below the overall average at 13.8%. This tells us retention efforts should be prioritized in Sales and HR first.
 
