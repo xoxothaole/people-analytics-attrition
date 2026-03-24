@@ -1,4 +1,4 @@
-# People Analytics: Understanding Employee Attrition
+# People Analytics: Workforce Attrition and Retention Risk Analysis
 
 **Tools:** SQL (PostgreSQL) · Python (pandas, matplotlib) · Tableau  
 **Dataset:** [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — Kaggle  
