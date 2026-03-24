@@ -22,10 +22,10 @@ The IBM HR Analytics dataset contains 1,470 employee records with 35 features in
 people-analytics-attrition/
 ├── data/
 │   └── hr_attrition.csv              
-├── sql/
-│   └── 01_stakeholder_queries.sql    
-├── notebooks/
+├── python/
 │   └── hr_attrition_eda.ipynb        
+├── sql/
+│   └── hr_attrition_queries.sql    
 ├── visuals/
 │   ├── dept_attrition.png
 │   ├── role_attrition.png
