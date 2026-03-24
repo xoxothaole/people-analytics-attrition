@@ -131,7 +131,7 @@ Employees with the lowest satisfaction score (1) leave at **22.8%**, while highl
 
 ## Tableau Dashboard
 
-📊 **[View Interactive Dashboard on Tableau Public →](#)**
+📊 **[View Interactive Dashboard on Tableau Public →](https://public.tableau.com/views/WorkforceAttritionandRetentionRiskAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The dashboard gives HR Business Partners and leadership an interactive view of the key findings without needing to run any code. It includes attrition by department and role, the overtime risk breakdown, and the tenure curve — all filterable by department.
 
