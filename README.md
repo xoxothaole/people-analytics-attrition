@@ -53,7 +53,7 @@ This analysis follows a structured approach that mirrors how a People Analytics 
 
 ## SQL Analysis
 
-Five stakeholder questions were addressed in [`01_stakeholder_queries.sql`](sql/01_stakeholder_queries.sql). All queries were written using CTEs for readability and compatibility with Snowflake and MS SQL Server environments.
+Five stakeholder questions were addressed in [`hr_attrition_queries.sql`](hr_attrition_queries.sql). All queries were written using CTEs for readability and compatibility with Snowflake and MS SQL Server environments.
 
 | # | Business Question | Requested By |
 |---|---|---|
